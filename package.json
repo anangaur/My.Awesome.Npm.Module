@@ -1,7 +1,7 @@
 {
-  "name": "my.awesome.code",
-  "version": "1.0.0",
-  "description": "Sample awesome package to test deprecation",
+  "name": "my.awesome.npm.code",
+  "version": "0.1.0",
+  "description": "Sample awesome package",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
