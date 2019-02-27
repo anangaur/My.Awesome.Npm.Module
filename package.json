@@ -1,0 +1,15 @@
+{
+  "name": "my.awesome.code",
+  "version": "1.0.0",
+  "description": "Sample awesome package to test deprecation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "deprecate"
+  ],
+  "author": "AG",
+  "license": "ISC"
+}
